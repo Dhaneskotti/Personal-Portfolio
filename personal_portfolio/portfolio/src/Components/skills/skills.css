@@ -1,0 +1,39 @@
+.sectionThree{
+    min-height: 100vh;   
+}
+/* .Accordion{
+    color: var(--myPrimaryDark) !important;
+} */
+
+.accordion-button.collapsed{
+    background-color: var(--myPrimaryLight) !important;
+    color: var(--myPrimaryDark) !important;
+    font-weight: bold;
+}
+.accordion-button:not(.collapsed){
+    background-color: var(--myPrimaryLight) !important;
+    color: var(--myPrimaryDark) !important;
+
+    font-weight: bold;
+}
+.accordion-button:focus{
+    box-shadow: 0 0 5px var(--myPrimaryDark) !important;
+}
+
+.progress-bar{
+    background-color: var(--myPrimary);
+}
+
+.bg-custom{
+    background-color: var(--myPrimary)!important;
+}
+.Accordion__skills{
+    width: 100%;
+}
+.container__skills{
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

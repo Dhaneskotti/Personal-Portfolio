@@ -1,0 +1,12 @@
+:root {
+    --myPrimary: #c3acfc;
+    /* --myPrimary: #69a5a8; */
+    --myPrimaryLight: #e1d4ff58;
+    --myPrimaryDark: #af90ff;
+    --myPrimaryVLight: #e1d4ff33;
+    --myPrimaryVDark: #9166fd;
+    --white: #ffffff;
+    --black: #000;
+    --blackLight: #000000c7;
+    --gray: gray;
+  }
